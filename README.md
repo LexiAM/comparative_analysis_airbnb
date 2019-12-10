@@ -11,6 +11,7 @@ airbnb_analysis.ipynb (also available in html)
 [New York listings](http://data.insideairbnb.com/united-states/ny/new-york-city/2018-10-03/data/listings.csv.gz)   
 ## Requirements
 Python 3.6 + with the following packages:
+    
     datetime
     IPython
     matplotlib
