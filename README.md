@@ -4,7 +4,8 @@ In this project we compare Airbnb listings and yearly trends between Los Angeles
 ## Project Structure
 ### Analysis Notebook:  
 airbnb_analysis.ipynb (also available in html)
-### Data: 
+### Data:
+Data for this analysis can be found on the Inside Airbnb projects website [Inside Airbnb Data](http://insideairbnb.com/get-the-data.html)
 [Los Angeles calendar](http://data.insideairbnb.com/united-states/ca/los-angeles/2018-10-05/data/calendar.csv.gz)  
 [New York calendar](http://data.insideairbnb.com/united-states/ny/new-york-city/2018-10-03/data/calendar.csv.gz)  
 [Los Angeles listings](http://data.insideairbnb.com/united-states/ca/los-angeles/2018-10-05/data/listings.csv.gz)  
