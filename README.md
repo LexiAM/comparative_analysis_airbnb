@@ -1,4 +1,4 @@
-# Statistical Comparitive Analysis of Airbrn Listings and Price Trends: LA vs NYC
+# Statistical Comparative Analysis of Airbnb Listings and Price Trends: LA vs. NYC
 ## Summary
 In this project we compare Airbnb listings and yearly trends between Los Angeles and New York for the past year starting with October 2018 and ending with October of 2019. We follow CRISP-DM process to perform comparative statistical analysis examining the types and sizes of listings, offered amenities, and listed prices throughout the year. We perform significance and effect size testing to evaluate strength of our findings.
 
